@@ -217,7 +217,7 @@ def main():
     #     return
     # b = ENV['BDUSS'].split('#')
 #   for n, i in enumerate(b):
-    i='kh0eFhITk1YVjFnWTh-NFV-cE1XajNBZjdKR2dXcy1NdkMta216TUVVU3FGZDlqSVFBQUFBJCQAAAAAAQAAAAEAAABbF1x5c3N6emFhYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKqIt2OqiLdjM'
+    i='bduss'
     logger.info("开始签到")
     tbs = get_tbs(i)
     favorites = get_favorite(i)
